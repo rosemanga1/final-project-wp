@@ -1,0 +1,65 @@
+.menu{
+    text-align: center;
+}
+
+.menu a{
+    text-decoration: none;
+    color: gray;
+    padding: 2em;
+    display: inline-block;
+    font-size: 32px;
+/*    background-color: blue;*/
+        
+}
+.menu a:hover{
+    color: white;
+    background-color: green;
+}
+.menu a.active{
+    color: blue;
+    
+}
+
+.wrapper{
+/*    text-align: center;*/
+}
+p{
+ line-height: 1.7em;
+    font-size: 32px;
+    padding: 2em;
+    
+}
+.main-content{
+    text-align: center;
+    
+    
+}
+h1{
+    font-family: times new roman;
+    font-size: 72px;
+    color: blue;
+    text-align: center;
+    
+    
+    
+    
+    
+}
+.main{
+    background-image: linear-gradient(white);
+
+}
+.footer{
+/*    margin: 2em;*/
+/*    display: inline-block;*/
+    padding: 0.5em;
+    font-size: 32px;
+    background-color: gray;
+    
+}
+body,
+h1, h2, h3, h4, h5, h6,
+ul, ol{
+    margin: 0;
+    padding: 0;
+}
